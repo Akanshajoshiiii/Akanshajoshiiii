@@ -12,4 +12,8 @@ I am a second year CSE Undergrad
 ---
 [![](https://visitcount.itsvg.in/api?id=akanshajoshiiii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+ Here's a little animation to brighten your day:
+
+![Dancing Cat](https://private-user-images.githubusercontent.com/74038190/240885602-330af13b-6435-4505-8a02-1869b677f9eb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ2MjU0ODgsIm5iZiI6MTczNDYyNTE4OCwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODU2MDItMzMwYWYxM2ItNjQzNS00NTA1LThhMDItMTg2OWI2NzdmOWViLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE5VDE2MTk0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI2ODk3YWUwMWY4ZGM4OGUzNzc1MGRiMWYwYTI2NzhkYmY2MTkyYTcwZmU0MzdiMzFiZTQxYjQ0NDg0NmYxNmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4_dxKUx-wvSmab_YyX8ugGSH2fL5L91dfXSoFzPlFFc)
+
