@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanshajoshiiii&label=Profile%20views&color=0e75b6&style=flat" alt="akanshajoshiiii" /> </p>
 
 
-![Fun GIF](https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif)
+![Fun GIF](https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczNzg1MTEsIm5iZiI6MTczNzM3ODIxMSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDEzMDMzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiZGNlZTE5ZTU4ZGQxOWY3ZjdmYjE1NDYzOTg2ZjFhMjExMTIwM2RhMTdiYWJhZjQwN2VlY2RkNjYzOTMxOWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZTUOe6DIt9s5yXO4HwU72Qw7oY3ue4MdI7hn0kROEqk)
 
 
 🌱 I’m currently learning **AI/ML**
