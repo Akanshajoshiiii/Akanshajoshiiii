@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- Fun Fact **The first computer "bug" was an actual moth stuck in a relay of the Harvard Mark II computer in 1947. Debugging has never been so literal! 🦋✨**
+- Fun Fact **The first computer "bug" was an actual moth stuck in a relay of the Harvard Mark II computer in 1947.
+-  Debugging has never been so literal! 🦋✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
