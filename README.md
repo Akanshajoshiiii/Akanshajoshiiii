@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning **AI/ML**
 
--  <h6>First computer "bug" was an actual moth stuck in a relay of the Harvard Mark II computer in 1947.
+<h6>First computer "bug" was an actual moth stuck in a relay of the Harvard Mark II computer in 1947.
    Debugging has never been so literal! 🦋✨</h6>
 
 <h3 align="left">Connect with me:</h3>
