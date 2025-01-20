@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akansha Joshi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanshajoshiiii&label=Profile%20views&color=0e75b6&style=flat" alt="akanshajoshiiii" /> </p>
 
-- 🌱 I’m currently learning **AI/ML**
+🌱 I’m currently learning **AI/ML**
 
 -  <h6>First computer "bug" was an actual moth stuck in a relay of the Harvard Mark II computer in 1947.
--  Debugging has never been so literal! 🦋✨</h6>
+   Debugging has never been so literal! 🦋✨</h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
